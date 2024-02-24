@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="odev2:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="odev2.jar">
+      <element id="module-output" name="odev2" />
+    </root>
+  </artifact>
+</component>
